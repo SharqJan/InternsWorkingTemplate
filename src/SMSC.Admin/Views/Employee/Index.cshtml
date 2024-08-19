@@ -1,0 +1,84 @@
+﻿<div class="row mt-3">
+
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+
+                <h5 class="text-uppercase mt-0 mb-3 bg-light p-2">Add Employee</h5>
+                <form id="formAddEmployee">
+                    <div class="mb-3">
+                        <label for="employeeName" class="form-label">Name</label>
+                        <input type="text" class="form-control" id="employeeName" placeholder="Enter Name" name="Name">
+                    </div>
+                    <div class="mb-3">
+                        <label for="employeeDescription" class="form-label">Description</label>
+                        <input type="text" class="form-control" id="employeeDescription" placeholder="Enter Description" name="Description">
+                    </div>
+                    <div class="mb-3">
+                        <label for="employeePhoneNumber" class="form-label">PhoneNumber</label>
+                        <input type="text" class="form-control" id="employeePhoneNumber" placeholder="Enter PhoneNumber" name="PhoneNumber">
+                    </div>
+                    <div class="mb-3">
+                        <label for="employeeEmail" class="form-label">Email</label>
+                        <input type="text" class="form-control" id="employeeEmail" name="Email" placeholder="Enter Email">
+                    </div>
+
+                    <div>
+                        <label for="employeeAddress" class="form-label">Address</label>
+                        <textarea class="form-control" rows="5" id="employeeAddress" placeholder="Please enter Address" name="Address"></textarea>
+                    </div>
+                    <div class="col-12 mt-3 float-end">
+                        <button type="submit" class="btn btn-success"><i class="fas fa-user-plus"></i> Add Employee</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+
+                <div class="table-responsive">
+                    <div id="products-datatable_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <table class="table table-centered table-striped dt-responsive nowrap w-100 dataTable no-footer dtr-inline" id="products-datatable" role="grid" aria-describedby="products-datatable_info" style="width: 1487px;">
+                                    <thead>
+                                        <tr role="row">
+                                            <th style="width: 50px;">#</th>
+                                            <th style="width: 262.4px;">Employee Name</th>
+                                            <th style="width: 173.4px;">Phone</th>
+                                            <th style="width: 119.4px;">Description</th>
+                                            <th style="width: 105.4px;">Email</th>
+                                            <th style="width: 303.4px;">Address</th>
+                                            <th style="width: 75.8px;" aria-label="Action">Action</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="employeeTableBody">
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div> <!-- end card-body-->
+        </div> <!-- end card-->
+    </div>
+</div>
+
+
+<label>Employee ID</label>
+<br />
+<input type="text" id="txt1" />
+
+<button id="btn1">Get Employee Details</button>
+
+<div id="employeeDiv">
+</div>
+
+
+
+
+
+<script src="~/js/script/employee.js"></script>

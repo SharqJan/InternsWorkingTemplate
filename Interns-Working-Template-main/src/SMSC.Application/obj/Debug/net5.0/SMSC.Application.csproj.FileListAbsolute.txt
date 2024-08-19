@@ -1,0 +1,339 @@
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\basit\Downloads\CURD - DTO - MAPPER   - MEDIATOR\aSMSC Phoenix\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Dev\Downloads\CRUD_Mediator\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Dev\Downloads\CRUD_Mediator - Demo Updated\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Dev\Downloads\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Music\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\sanna\Downloads\Inters Working Template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Music\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\sanna\Downloads\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\Aspl\Downloads\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\sanna\Downloads\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Downloads\04_Oct_m (3) (2)\04_Oct_m (2) (2)\04_Oct_m\update template\update template\Inters Working Template\Inters Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+D:\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+D:\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+D:\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+D:\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+D:\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+D:\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+D:\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+D:\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+D:\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+D:\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+D:\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+D:\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+D:\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+D:\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+D:\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Aspl\Downloads\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\ASPL\Downloads\10_Oct_n\10_Oct_n\10_Oct_n\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+D:\AttendanceCRUD_UserCRUD\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CopyComplete
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Spreadsheet.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Core.dll
+C:\Users\ASPL\Downloads\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\Telerik.Zip.dll
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.sourcelink.json
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Spreadsheet.dll
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Core.dll
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\Telerik.Zip.dll
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\SMSC.App.CDC91039.Up2Date
+C:\Users\ASPL\Downloads\Docx\AttendanceCRUD_UserCRUD(3)\AttendanceCRUD_UserCRUD(1)\AttendanceCRUD_UserCRUD\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.sourcelink.json
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Spreadsheet.dll
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Core.dll
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\Telerik.Zip.dll
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.App.CDC91039.Up2Date
+C:\Users\RAMEEZ DEV\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\nlog.config
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.deps.json
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.dll
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.dll
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Spreadsheet.dll
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\Telerik.Documents.Core.dll
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\Telerik.Zip.dll
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\bin\Debug\net5.0\SMSC.Core.pdb
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.AssemblyReference.cache
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfoInputs.cache
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.AssemblyInfo.cs
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.sourcelink.json
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.App.CDC91039.Up2Date
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.dll
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\refint\SMSC.Application.dll
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\SMSC.Application.pdb
+C:\Users\Afridah\Downloads\Interns Working Template\src\SMSC.Application\obj\Debug\net5.0\ref\SMSC.Application.dll
